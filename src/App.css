@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.top-bar {
+  padding: 0.5rem;
+  background: white;
+  word-spacing: 0.5rem 1rem 0.5rem 0;
+  width: 400px;
+  display: flex;
+  justify-content: left;
+  
+  
+/* $topbar-submenu-background: $topbar-background; */
+/* $topbar-title-spacing: ; */
+/* $topbar-input-width: ; */
+/* $topbar-unstack-breakpoint: medium; */
+}
